@@ -1,0 +1,6 @@
+export const commodities = [
+    "CRUDEOILM19OCT26FUT",
+    "GOLDM05NOV26FUT",
+    "SILVERM30NOV26FUT",
+    "NATGASMINI27OCT26FUT"
+]
